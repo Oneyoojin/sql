@@ -106,10 +106,3 @@ FROM PROFESSOR p;
 
 
 
--- MVL / MVL2
-
-
-
-
-
-
